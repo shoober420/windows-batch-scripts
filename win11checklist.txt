@@ -512,7 +512,7 @@ Remember to update the NICID for these registry settings when using a new NIC ca
  - HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{NICID}\TcpNoDelay 1
 
 Fix Windows Update
- - Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader*.*
+ - Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader*.*"
  - rmdir %systemroot%\SoftwareDistribution /S /Q
  - rmdir %systemroot%\system32\catroot2 /S /Q
 
