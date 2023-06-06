@@ -1,4 +1,4 @@
-rem Ultra Minimal disable UI
+rem Ultra Minimal Disable UI
 net stop AppXSvc
 net stop camsvc
 net stop UdkUserSvc
