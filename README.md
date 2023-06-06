@@ -1,7 +1,4 @@
-# WindowsBatchScripts
-
-Windows Batch Scripts:
-
+# Windows Batch Scripts
 windows11checklist.txt (information on tweaks)
 
 win11tweaks.bat (to disable Windows defender, run this in Safe Mode)
