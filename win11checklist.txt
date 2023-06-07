@@ -520,4 +520,4 @@ Fix Windows Update
 Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
  - sfc /scannow
- - dism /online /cleanup-image /startcomponentcleanup
+ - dism /online /cleanup-image /startcomponentcleanup (Cleans WinSxS directory)
