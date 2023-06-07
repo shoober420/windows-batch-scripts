@@ -728,6 +728,7 @@ takeown /s %computername% /u %username% /f "%WINDIR%\System32\GameBarPresenceWri
 icacls "%WINDIR%\System32\GameBarPresenceWriter.exe" /inheritance:r /grant:r %username%:F
 taskkill /im GameBarPresenceWriter.exe /f
 rem del "%WINDIR%\System32\GameBarPresenceWriter.exe" /s /f /q
+ren "%WINDIR%\System32\GameBarPresenceWriter.exe" "GameBarPresenceWriter.exe.bak"
 
 
 
