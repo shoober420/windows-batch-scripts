@@ -1,7 +1,7 @@
 # Windows Batch Scripts
 windows11checklist.txt (information on tweaks)
 
-win11tweaks.bat (to disable windows defender, run in Safe Mode)
+win11tweaks.bat (to disable windows defender, run in safe mode)
 
 disablewinupdate.bat / enablewinupdate.bat
 
