@@ -1,3 +1,5 @@
+rem Disable Windows Update
+
 net stop UsoSvc
 net stop wisvc
 net stop wuauserv
