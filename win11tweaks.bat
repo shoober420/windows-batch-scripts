@@ -7,11 +7,11 @@ rem https://github.com/TairikuOokami/Windows/blob/main/Windows%20Tweaks.bat
 rem Too disable Windows Defender, run in Safe Mode
 
 rem Run with other batch scripts:
-windows11checklist.txt (information on tweaks)
-win11tweaks.bat (to disable Windows defender, run in Safe Mode)
-disablewinupdate.bat / enablewinupdate.bat
-disablewmi.bat / enablewmi.bat
-disableui.bat / enableui.bat
+rem windows11checklist.txt (information on tweaks)
+rem win11tweaks.bat (to disable Windows defender, run in Safe Mode)
+rem disablewinupdate.bat / enablewinupdate.bat
+rem disablewmi.bat / enablewmi.bat
+rem disableui.bat / enableui.bat
 
 rem WMI (Windows Management Instrumentation) is required for PowerShell commands
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\Winmgmt" /v "Start" /t REG_DWORD /d "2" /f
