@@ -44,7 +44,8 @@ rem Remove Smartscreen (to restore run "sfc /scannow")
 takeown /s %computername% /u %username% /f "%WinDir%\System32\smartscreen.exe"
 icacls "%WinDir%\System32\smartscreen.exe" /grant:r %username%:F
 taskkill /im smartscreen.exe /f
-del "%WinDir%\System32\smartscreen.exe" /s /f /q
+rem del "%WinDir%\System32\smartscreen.exe" /s /f /q
+ren "%WinDir%\System32\smartscreen.exe" "smartscreen.exe.bak"
 
 
 
@@ -875,7 +876,8 @@ rem Remove Start (to restore run SFC scan)
 takeown /s %computername% /u %username% /f "%WINDIR%\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"
 icacls "%WINDIR%\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" /inheritance:r /grant:r %username%:F
 taskkill /im StartMenuExperienceHost.exe /f
-del "%WINDIR%\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" /s /f /q
+rem del "%WINDIR%\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" /s /f /q
+ren "C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" "StartMenuExperienceHost.exe.bak"
 
 
 
