@@ -8,3 +8,7 @@ disablewinupdate.bat / enablewinupdate.bat
 disablewmi.bat / enablewmi.bat
 
 disableui.bat / enableui.bat
+
+disablestore.bat / enablestore.bat
+
+enablecomponents.bat
