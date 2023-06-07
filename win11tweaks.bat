@@ -1687,19 +1687,23 @@ rem Remove AMD User Experience Program Master
 takeown /s %computername% /u %username% /f "C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe"
 icacls "C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe" /grant:r %username%:F
 taskkill /im AUEPMaster.exe /f
-del "C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe" /s /f /q
+rem del "C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe" /s /f /q
+ren "C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe" "AUEPMaster.exe.bak"
 
 rem Remove Armoury Socket Server
 takeown /s %computername% /u %username% /f "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer.exe"
 icacls "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer.exe" /grant:r %username%:F
 taskkill /im ArmourySocketServer.exe /f
-del "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer.exe" /s /f /q
+rem del "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer.exe" /s /f /q
+ren "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer.exe" "ArmourySocketServer.exe.bak"
 
 rem Remove P508PowerAgent
 takeown /s %computername% /u %username% /f "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe"
 icacls "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe" /grant:r %username%:F
 taskkill /im P508PowerAgent.exe /f
-del "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe" /s /f /q
+rem del "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe" /s /f /q
+ren "C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe" "P508PowerAgent.exe.bak"
+
 
 
 rem MarkC Acceleration Fix
