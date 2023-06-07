@@ -26,12 +26,6 @@ takeown /s %computername% /u %username% /f "C:\Windows\SystemApps\ShellExperienc
 icacls "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" /grant:r %username%:F
 ren "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe.bak" "ShellExperienceHost.exe"
 
-rem Search Host (to restore run "sfc /scannow")
-takeown /s %computername% /u %username% /f "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"
-icacls "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" /grant:r %username%:F
-taskkill /im SearchHost.exe /f
-ren "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe.bak" "SearchHost.exe"
-
 rem Application Frame Host (to restore run "sfc /scannow")
 takeown /s %computername% /u %username% /f "%WinDir%\System32\ApplicationFrameHost.exe"
 icacls "%WinDir%\System32\ApplicationFrameHost.exe" /grant:r %username%:F
