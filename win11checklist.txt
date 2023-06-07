@@ -522,7 +522,21 @@ Basic Troubleshooting
  - sfc /scannow
  - dism /online /cleanup-image /startcomponentcleanup (Cleans WinSxS directory)
  
- Reinstall deleted Windows Store Apps
-  - launch enablestore.bat script
-  - open run
-  - ms-windows-store:
+Reinstall deleted Windows Store Apps
+ - launch enablestore.bat script
+ - open run
+ - ms-windows-store:
+ 
+Re-enter product key
+ - open cmd
+ - wmic path softwarelicensingservice get OA3xOriginalProductKey
+ - copy product key
+ - open run
+ - ms-settings:activation
+ - change product key
+ - paste product key
+ +++ OPTIONAL clear product key
+      - slmgr /upk
+      - slmgr /cpky
+  
+  
