@@ -727,7 +727,7 @@ rem Remove GameBarPresenceWriter.exe (to restore run SFC scan)
 takeown /s %computername% /u %username% /f "%WINDIR%\System32\GameBarPresenceWriter.exe"
 icacls "%WINDIR%\System32\GameBarPresenceWriter.exe" /inheritance:r /grant:r %username%:F
 taskkill /im GameBarPresenceWriter.exe /f
-del "%WINDIR%\System32\GameBarPresenceWriter.exe" /s /f /q
+rem del "%WINDIR%\System32\GameBarPresenceWriter.exe" /s /f /q
 
 
 
@@ -925,7 +925,7 @@ rem winget uninstall "cortana"
 takeown /s %computername% /u %username% /f "%WINDIR%\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"
 icacls "%WINDIR%\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" /inheritance:r /grant:r %username%:F
 taskkill /im SearchHost.exe /f
-del "%WINDIR%\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" /s /f /q
+ren "C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe" "SearchHost.exe.bak"
 
 
 
