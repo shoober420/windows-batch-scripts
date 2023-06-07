@@ -1713,7 +1713,7 @@ reg add "HKU\.DEFAULT\Control Panel\Mouse" /v "MouseThreshold2" /t REG_SZ /d "0"
 
 
 rem Delete Windows.old directory
-remtakeown /F "C:\Windows.old" /A /R /D Y
+rem takeown /F "C:\Windows.old" /A /R /D Y
 rem icacls "C:\Windows.old" /grant *S-1-5-32-544:F /T /C /Q
 rem RD /S /Q "C:\Windows.old"
 
