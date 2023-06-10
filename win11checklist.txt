@@ -538,7 +538,7 @@ Re-enter product key
  - ms-settings:activation
  - change product key
  - paste product key
- +++ OPTIONAL clear product key
+ +++ OPTIONAL clear product key (backup product key before executing)
       - slmgr /upk
       - slmgr /cpky
   
