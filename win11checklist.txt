@@ -63,7 +63,7 @@ Download latest OpenAL software
 
 - disable bloat Windows features
  + open Programs and Features
- + turn Windows features on or off, uncheck unneeded features
+ + turn Windows features on or off, uncheck unneeded features (uncheck .NET 3.5 and 4.5/4.8)
 
 - Open File Explorer
  + three dots then options, view tab and uncheck show sync provider notifications
@@ -513,10 +513,12 @@ Remember to update the NICID for these registry settings when using a new NIC ca
  - HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{NICID}\TcpNoDelay 1
 
 Fix Windows Update
- - net stop cryptsvc (cryptographic services)
+ - launch disablewinupdate.bat script
  - Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\qmgr*.dat"
  - rmdir %systemroot%\SoftwareDistribution /S /Q
  - rmdir %systemroot%\system32\catroot2 /S /Q
+ - ren c:\windows\winsxs\pending.xml pending.old
+ - bitsadmin.exe /reset /allusers
 
 Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
