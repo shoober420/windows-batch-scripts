@@ -5,7 +5,8 @@ Download latest AMD Adrenalin Software
 Download latest Intel Driver & support assistant (Intel DSA) / Intel Wireless Bluetooth - Intel PROSet/Wireless WiFi
 Download latest Audio drivers
 Download latest WiFi drivers (or disable if on wired connection)
-Download Notepad++
+Download Notepad++ (text editor)
+Download IrfanView (picture viewer)
 Download MarkC mouse acceleration fix (Windows 10 Fixes/MouseFix_ItemsSize=100%)
 Download latest OpenAL software
 
