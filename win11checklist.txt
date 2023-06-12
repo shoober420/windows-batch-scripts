@@ -524,6 +524,8 @@ Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
  - dism /online /cleanup-image /startcomponentcleanup (cleans WinSxS directory)
  - sfc /scannow
+ - chkdsk c: /sdcleanup /offlinescanandfix
+ - chkdsk c: /f /r /x /b
 
 Reinstall deleted Windows Store Apps
  - launch enablestore.bat script
