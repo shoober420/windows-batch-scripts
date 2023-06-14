@@ -514,13 +514,13 @@ Remember to update the NICID for these registry settings when using a new NIC ca
 
 Fix Windows Update
  - launch disablewinupdate.bat script
- - Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\qmgr*.dat"
+ - del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\qmgr*.dat"
  - rmdir %systemroot%\SoftwareDistribution /S /Q
  - rmdir %systemroot%\system32\catroot2 /S /Q
  - ren c:\windows\winsxs\pending.xml pending.old
  - bitsadmin.exe /reset /allusers
 
-You can try to manually install windows updates using "uupdump.net" or looking for the ".msu" file
+You can manually install windows updates using "uupdump.net" or by looking for the ".msu" file. using uup dumps can also download SystemApps that were removed
 
 Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
@@ -545,5 +545,3 @@ Re-enter product key
  +++ OPTIONAL clear product key (backup product key before executing)
       - slmgr /upk
       - slmgr /cpky
-  
-  
