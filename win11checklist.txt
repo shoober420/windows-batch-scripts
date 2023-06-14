@@ -387,6 +387,8 @@ Download shutup10++, open in downloads and disable most settings
  + remove Microsoft.Windows.ShellExperienceHost (removes Shell process, needs done again after updates)
  +++ ONLY MINIMAL remove Microsoft.Windows.StartMenuExperienceHost (***) (borks start menu, right click on start menu required) (removes Start process, needs done again after updates)
 
+C:\Program Files\WindowsApps contains other apps
+
 Download QuickCPU, open and max out sliders to %100 percent
 
 Download CCleaner / Bleach it and run
