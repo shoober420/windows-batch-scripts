@@ -520,6 +520,8 @@ Fix Windows Update
  - ren c:\windows\winsxs\pending.xml pending.old
  - bitsadmin.exe /reset /allusers
 
+You can try to manually install windows updates using "uupdump.net" or looking for the ".msu" file
+
 Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
  - dism /online /cleanup-image /startcomponentcleanup (cleans WinSxS directory)
