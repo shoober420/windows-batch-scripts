@@ -387,7 +387,7 @@ Download shutup10++, open in downloads and disable most settings
  + remove Microsoft.Windows.ShellExperienceHost (removes Shell process, needs done again after updates)
  +++ ONLY MINIMAL remove Microsoft.Windows.StartMenuExperienceHost (***) (borks start menu, right click on start menu required) (removes Start process, needs done again after updates)
 
-C:\Program Files\WindowsApps contains other apps (winget.exe is in Microsoft.DesktopAppInstaller)
+C:\Program Files\WindowsApps contains other SystemApps
 
 Download QuickCPU, open and max out sliders to %100 percent
 
@@ -535,6 +535,12 @@ Reinstall deleted Windows Store Apps
  - launch enablestore.bat script
  - open run
  - ms-windows-store:
+ 
+ You need to launch winget from the "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.20.1081.0_x64__8wekyb3d8bbwe" directory
+  - open cmd
+  - cd C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.20.1081.0_x64__8wekyb3d8bbwe
+  - winget --info
+  - winget upgrade *package*
  
 Re-enter product key
  - open cmd
