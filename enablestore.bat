@@ -8,6 +8,7 @@ reg add "HKLM\SYSTEM\CurrentControlSet\Services\UnistoreSvc" /v "Start" /t REG_D
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\UserDataSvc" /v "Start" /t REG_DWORD /d "2" /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\InstallService" /v "Start" /t REG_DWORD /d "2" /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\OneSyncSvc" /v "Start" /t REG_DWORD /d "2" /f
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\ClipSVC" /v "Start" /t REG_DWORD /d "2" /f
 
 net start NcbService
 net start AppXSvc
@@ -17,6 +18,7 @@ net start UnistoreSvc
 net start UserDataSvc
 net start InstallService
 net start OneSyncSvc
+net start ClipSVC
 
 rem Application Frame Host (to restore run "sfc /scannow")
 takeown /s %computername% /u %username% /f "%WinDir%\System32\ApplicationFrameHost.exe"
