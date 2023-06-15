@@ -536,11 +536,6 @@ Reinstall deleted Windows Store Apps
  - open run
  - ms-windows-store:
  
- Fix "Program 'winget.exe' failed to run: The process has no package identity"
-  - Settings then Apps
-  - advanced app settings then app execution aliases
-  - turn off winget then turn back on again
- 
 Re-enter product key
  - open cmd
  - wmic path softwarelicensingservice get OA3xOriginalProductKey
