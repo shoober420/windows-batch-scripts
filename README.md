@@ -16,3 +16,5 @@ enablecomponents.bat
 winget.bat
 
 vcredist.bat
+
+deusex.txt
