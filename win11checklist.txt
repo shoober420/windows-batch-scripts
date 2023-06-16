@@ -1,14 +1,17 @@
-Download latest BIOS for motherboard
 Run windows update
-Download latest Nvidia vulkan beta driver
-Download latest AMD Adrenalin Software
-Download latest Intel Driver & support assistant (Intel DSA) / Intel Wireless Bluetooth - Intel PROSet/Wireless WiFi
-Download latest Audio drivers
-Download latest WiFi drivers (or disable if on wired connection)
-Download Notepad++ (text editor)
-Download IrfanView (picture viewer)
-Download MarkC mouse acceleration fix (Windows 10 Fixes/MouseFix_ItemsSize=100%)
-Download latest OpenAL software
+
+Download
+ - BIOS for motherboard
+ - Nvidia vulkan beta driver
+ - AMD Adrenalin Software
+ - Intel Driver & support assistant (Intel DSA) / Intel Wireless Bluetooth - Intel PROSet/Wireless WiFi
+ - Audio drivers
+ - WiFi drivers (or disable if on wired connection)
+ - Notepad++ (text editor)
+ - IrfanView (picture viewer)
+ - MarkC mouse acceleration fix (Windows 10 Fixes/MouseFix_ItemsSize=100%)
+ - DirectX End-User Runtime Web Installer (dxwebupdate.exe)
+ - OpenAL software
 
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
