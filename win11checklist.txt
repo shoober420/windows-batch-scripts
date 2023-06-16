@@ -13,7 +13,6 @@ Download
  - DirectX End-User Runtime Web Installer (dxwebupdate.exe)
  - OpenAL software
  - 7zip
- - Visual Studio (https://visualstudio.microsoft.com/downloads/) ("MSVC vXXX - VS XXXX C++ x64/x86 build tools (latest)" for NMAKE)
 
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
