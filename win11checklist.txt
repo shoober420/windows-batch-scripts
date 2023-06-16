@@ -13,6 +13,7 @@ Download
  - DirectX End-User Runtime Web Installer (dxwebupdate.exe)
  - OpenAL software
  - 7zip
+ - Visual Studio (https://visualstudio.microsoft.com/downloads/) ("MSVC vXXX - VS XXXX C++ x64/x86 build tools (latest)" for NMAKE)
 
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
@@ -539,12 +540,6 @@ Reinstall deleted Windows Store Apps
  - launch enablestore.bat script
  - open run
  - ms-windows-store:
- 
- You need to launch winget from the "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.20.1081.0_x64__8wekyb3d8bbwe" directory
-  - open cmd
-  - cd C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.20.1081.0_x64__8wekyb3d8bbwe
-  - winget --info
-  - winget upgrade *package*
  
 Re-enter product key
  - open cmd
