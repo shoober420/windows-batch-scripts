@@ -20,3 +20,5 @@ vcredist.bat
 deusex.txt
 
 maxpayne.txt
+
+slavezero.txt
