@@ -1,0 +1,13 @@
+https://www.moddb.com/games/deus-ex/downloads/deus-ex-unofficial-patch-v2 (OPTIONAL!!! CHANGES ALOT OF VANILLA BEHAVIOR)
+
+https://www.dxm.be/navigator.php5?lang=en&content=202
+
+https://kentie.net/article/dxguide/index.htm
+
+https://kentie.net/article/d3d10drv/index.htm
+
+www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z
+
+Open Console
+ - Press T
+ - Press Shift+Tilde (~)
