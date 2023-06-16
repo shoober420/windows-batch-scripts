@@ -12,3 +12,5 @@ disableui.bat / enableui.bat
 disablestore.bat / enablestore.bat
 
 enablecomponents.bat
+
+winget.bat
