@@ -14,3 +14,5 @@ disablestore.bat / enablestore.bat
 enablecomponents.bat
 
 winget.bat
+
+vcredist.bat
