@@ -4,7 +4,7 @@ Download d3d8to9 (https://github.com/crosire/d3d8to9)
 Download dsoal (http://vaporeon.io/hosted/dsoal-builds/)
  - copy copy dsound.dll, dsoal-aldrv.dll, and alsoft.ini to the Max Payne directory
 
-AMD ZEN2 CPU JPEG ERRORS FIX
+AMD Zen2/Ryzen3 CPU JPEG ERRORS FIX
  - go to Max Payne directory and backup rlmfc.dll
  - open hex editor (HxD) and edit rlmfc.dll
  - go to offset 0x256ED (in common editors, row 256E0, column 0D)
