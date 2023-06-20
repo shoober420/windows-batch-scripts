@@ -1,12 +1,12 @@
 https://www.moddb.com/games/deus-ex/downloads/deus-ex-unofficial-patch-v2 (OPTIONAL!!! CHANGES ALOT OF VANILLA BEHAVIOR)
 
-https://www.dxm.be/navigator.php5?lang=en&content=202
+https://www.dxm.be/navigator.php5?lang=en&content=202 (maps patch)
 
-https://kentie.net/article/dxguide/index.htm
+https://kentie.net/article/dxguide/index.htm (Deus Exe)
 
-https://kentie.net/article/d3d10drv/index.htm
+https://kentie.net/article/d3d10drv/index.htm (d3d10 driver)
 
-www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z
+www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z (OpenAL driver)
 
 Open Console
  - Press T
