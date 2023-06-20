@@ -1,0 +1,7 @@
+https://www.nexusmods.com/morrowind/mods/45096 (patch for purists) (OPTIONAL!!! CHANGES VANILLA BEHAVIOR!!!)
+
+https://www.nexusmods.com/morrowind/mods/19510/ (code patch) (OPTIONAL!!! CHANGES VANILLA BEHAVIOR!!!)
+
+https://www.nexusmods.com/morrowind/mods/41102/ (MGE XE graphics update)
+
+https://www.techpowerup.com/forums/threads/large-address-aware.112556/ (LAA - Large Address Aware, allows for 2GB+ system memory utilization)
