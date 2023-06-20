@@ -17,4 +17,4 @@ winget.bat
 
 vcredist.bat
 
-deusex.txt / maxpayne.txt / slavezero.txt / redfaction.txt
+deusex.txt / maxpayne.txt / slavezero.txt / redfaction.txt / morrowind.txt
