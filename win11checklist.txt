@@ -14,6 +14,7 @@ Download
  - MarkC mouse acceleration fix (Windows 10 Fixes/MouseFix_ItemsSize=100%)
  - DirectX End-User Runtime Web Installer (dxwebupdate.exe)
  - OpenAL software
+ - dsoal (http://vaporeon.io/hosted/dsoal-builds/)
  - 7zip
 
 - Harden internet settings
