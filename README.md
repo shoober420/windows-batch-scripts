@@ -17,8 +17,4 @@ winget.bat
 
 vcredist.bat
 
-deusex.txt
-
-maxpayne.txt
-
-slavezero.txt
+deusex.txt / maxpayne.txt / slavezero.txt / red faction.txt
