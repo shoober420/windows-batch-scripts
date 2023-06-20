@@ -6,4 +6,6 @@ https://www.techpowerup.com/forums/threads/large-address-aware.112556/ (LAA - La
 
 Download MGE XE graphics update
  - https://www.nexusmods.com/morrowind/mods/41102
- - be sure to select the Morrowind directory so it doesn't install in "C:\Program Files (x86)\"
+ - be sure to select the Morrowind directory for installation so it doesn't install files in "C:\Program Files (x86)\"
+ - for distant land, be sure to click the "Distant land generator wizard" button near the top under the "Distant land" tab
+ - don't use "High detail actor shadows [buggy]", renders actor shadows incorrectly by not drawing certain parts
