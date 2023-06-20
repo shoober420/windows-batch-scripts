@@ -1,3 +1,2 @@
 Download d3d8to9 (https://github.com/crosire/d3d8to9)
-
-Put d3d8.dll in Max Payne directory
+ - put d3d8.dll in Max Payne directory
