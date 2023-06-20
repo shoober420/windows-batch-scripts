@@ -18,9 +18,9 @@ Graphics
  - Fog mode: Range vertex (best)
 
 Distant land
- - enable and check all Water Reflections
+ - enable and check all Water Reflections options
  - enable Per-pixel lighting shader: Always on
 
 In-Game
- - disable Disable MWSE support
- - enable Thread loading
+ - enable "Disable MWSE support" 
+ - enable "Thread loading"
