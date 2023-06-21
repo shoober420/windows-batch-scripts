@@ -19,4 +19,4 @@ vcredist.bat
 
 HKCUdsound.reg (adds dsound registry keys needed for older games, like Max Payne)
 
-deusex.txt / maxpayne.txt / slavezero.txt / redfaction.txt / morrowind.txt
+deusex.txt / maxpayne.txt / slavezero.txt / redfaction.txt / morrowind.txt / chaser.txt
