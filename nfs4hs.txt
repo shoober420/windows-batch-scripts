@@ -1,4 +1,4 @@
-Need for Speed 4: High Stakes
+Need for Speed 4: High Stakes (nfs3 but with car collision and vehicle damage)
  - download nfs4 (https://www.myabandonware.com/game/need-for-speed-high-stakes-bgf)
  - install nfs4
  - download modern patch (https://veg.by/en/projects/nfs4/)
