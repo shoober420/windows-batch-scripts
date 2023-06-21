@@ -8,3 +8,9 @@ bretty gud gaem
  - run nglide_config.exe and setup
  - download original retail engine acceleration sound file (https://drive.google.com/file/d/1gdYSvhVggaZPof8nq4fQF6_gogXm-LaR/view)
  - put FIX.MEG in "C:\Program Files (x86)\GOG Galaxy\Games\POD GOLD\DATA\BINARY\RESSON" directory
+
+Fix game running too fast
+ - open glide_config.exe
+ - Video backend: DirectX (Vulkan too fast)
+ - Refresh rate: 60Hz
+ - Vertical Synchronization: On (default)
