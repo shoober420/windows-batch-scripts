@@ -1,0 +1,14 @@
+Need for Speed 5: Porsche Unleashed
+ - download nfs5 (https://www.myabandonware.com/game/need-for-speed-porsche-unleashed-bg9)
+ - download WinBin2ISO (https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
+ - install WinBin2ISO
+ - convert NFS_PU.bin
+ - right click on NFS_PU.iso and mount
+ - install using "14077 TOYS PORK SHOP TEST" CDKEY
+ - download NFS5 Essentials patch (https://www.nfscars.net/need-for-speed-porsche-unleashed/3/files/view/11514/)
+ - install 3.5 Enhanced Patch in "NFS5EssentialsV2\Official Patch & Addon Cars Setup\3.5 Enhanced Patch\SETUP.EXE"
+ - put all files from "NFS5EssentialsV2\Unzip to NFS5 installation directory" into "C:\Program Files (x86)\Electronic Arts\Need For Speed - Porsche Unleashed"
+ 
+ https://web.archive.org/web/20220128183909/https://verokster.blogspot.com/2019/11/need-for-speed-porsche-unleashed-patch.html
+ https://www.patreon.com/verok/posts?filters%5Btag%5D=Porsche%20Unleashed
+ maybe needs dgvoodoo2
