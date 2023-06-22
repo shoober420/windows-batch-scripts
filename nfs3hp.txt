@@ -5,4 +5,5 @@ Need for Speed 3: Hot Pursuit
  - copy "fedata" and "gamedata" from nfs3 iso to "C:\Program Files (x86)\NFS3HP" directory
  - download need for speed 3 modern patch beta (https://veg.by/files/nfs3/nfs3_modern_patch_beta.7z)
  - extract to "C:\Program Files (x86)\NFS3HP" directory
- 
+ - download nGLide (https://www.zeus-software.com/downloads/nglide)
+ - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "C:\Program Files (x86)\NFS3HP", "NFS3HP\drivers\nglide", and "NFS3HP\drivers\glide3x" directories
