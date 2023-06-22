@@ -5,11 +5,9 @@ Need for Speed 5: Porsche Unleashed
  - convert NFS_PU.bin
  - right click on NFS_PU.iso and mount
  - install using "14077 TOYS PORK SHOP TEST" CDKEY
-
-
- https://www.dropbox.com/s/i80a8u5nbm1uldz/nfs5_pu_patch_1.06.7z?dl=0
- https://web.archive.org/web/20220128183909/https://verokster.blogspot.com/2019/11/need-for-speed-porsche-unleashed-patch.html
- https://www.patreon.com/verok/posts?filters%5Btag%5D=Porsche%20Unleashed
- maybe needs dgvoodoo2
+ - download "Need For Speed V - Porsche Unleashed Patch" (https://www.dropbox.com/s/i80a8u5nbm1uldz/nfs5_pu_patch_1.06.7z?dl=0) (https://www.patreon.com/verok/posts?filters%5Btag%5D=Porsche%20Unleashed)
+ - extract patch into nfs5 directory
+ - edit nfs5.ini, ThrashDriver=opengl3
+ - edit "opengl3\thrash.ini", OGL_VSYNC=0
 
 Don't install nfs5 essential patch
