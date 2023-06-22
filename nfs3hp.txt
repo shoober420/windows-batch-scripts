@@ -1,0 +1,8 @@
+Need for Speed 3: Hot Pursuit
+ - download nfs3 (https://www.myabandonware.com/game/need-for-speed-iii-hot-pursuit-a4b)
+ - mount iso
+ - create "C:\Program Files (x86)\NFS3HP" directory
+ - copy "fedata" and "gamedata" from nfs3 iso to "C:\Program Files (x86)\NFS3HP" directory
+ - download need for speed 3 modern patch beta (https://veg.by/files/nfs3/nfs3_modern_patch_beta.7z)
+ - extract to "C:\Program Files (x86)\NFS3HP" directory
+ 
