@@ -15,6 +15,7 @@ Download
  - DirectX End-User Runtime Web Installer (dxwebupdate.exe)
  - OpenAL software
  - dsoal (http://vaporeon.io/hosted/dsoal-builds/)
+ - WinBin2ISO (https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
  - 7zip
 
 - Harden internet settings
