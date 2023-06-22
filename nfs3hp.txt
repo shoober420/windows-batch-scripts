@@ -6,7 +6,7 @@ Need for Speed 3: Hot Pursuit
  - download need for speed 3 modern patch beta (https://veg.by/files/nfs3/nfs3_modern_patch_beta.7z)
  - extract to "C:\Program Files (x86)\NFS3HP" directory
  - download nGLide (https://www.zeus-software.com/downloads/nglide)
- - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "C:\Program Files (x86)\NFS3HP",          "NFS3HP\drivers\nglide", and "NFS3HP\drivers\glide3x" directories
+ - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "C:\Program Files (x86)\NFS3HP", "NFS3HP\drivers\nglide", and "NFS3HP\drivers\glide3x" directories
  - download voodoo 3 patch (https://soggi.org/files/misc/game-patches/Need-for-Speed-III_Voodoo3-update.7z)
  - rename voodoo2a.dll to voodoo2a.dllorg in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
  - put voodoo2a.dll from the voodoo 3 patch in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
