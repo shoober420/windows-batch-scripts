@@ -12,4 +12,4 @@ Need for Speed 5: Porsche Unleashed
  https://www.patreon.com/verok/posts?filters%5Btag%5D=Porsche%20Unleashed
  maybe needs dgvoodoo2
 
-Don't install 
+Don't install nfs5 essential patch
