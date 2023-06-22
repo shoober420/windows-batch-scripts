@@ -8,10 +8,10 @@ Need for Speed 3: Hot Pursuit
  - download nGLide (https://www.zeus-software.com/downloads/nglide)
  - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "C:\Program Files (x86)\NFS3HP",          "NFS3HP\drivers\nglide", and "NFS3HP\drivers\glide3x" directories
  - download voodoo 3 patch (https://soggi.org/files/misc/game-patches/Need-for-Speed-III_Voodoo3-update.7z)
- - rename voodoo2a.dll to voodoo2a.dllold in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
+ - rename voodoo2a.dll to voodoo2a.dllorg in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
  - put voodoo2a.dll from the voodoo 3 patch in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
  - download modern packs (http://xcx.4fan.cz/setup-for-modern-packs/)
- - extract setupMP.7z into nfs4 directory
+ - extract setupMP.7z into nfs3 directory
  
  - run setupMP
    + Graphics tab, checkmark "Hide 16bit modes", checkmark "Use 32bit Mode in Menu", Allow Huge Textures: 2048px, 
