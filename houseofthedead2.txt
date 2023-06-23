@@ -1,0 +1,6 @@
+House of the Dead 2
+  - download (https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
+  - burn img/cue files with ImgBurn
+  - install game
+  - dgvoodoo2
+  
