@@ -13,3 +13,8 @@ Change blood color
   - go to "C:\Program Files (x86)\SEGA\THE HOUSE OF THE DEAD 2\tex" 
   - rename scr_blood_green.bin to scr_blood_green.binorg
   - make a copy of scr_blood_red.bin and rename it scr_blood_green.bin
+
+
+hotd2 uses sound effects from zombie revenge, the dreamcast game
+
+House of the Dead 1 is a bad saturn port, use arcade and mame
