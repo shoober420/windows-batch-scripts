@@ -10,6 +10,7 @@ dgvoodoo2
 
 Device Select (F5)
 Provider (F9) (for multiplayer)
+Quit (ALT+F4)
 
 F10 to enable menu at top of screen
 
