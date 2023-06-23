@@ -17,6 +17,7 @@ Download
  - dsoal (http://vaporeon.io/hosted/dsoal-builds/)
  - IMGtoISO (http://www.imgtoiso.com/)
  - WinBin2ISO (https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
+ - ImgBurn (https://www.majorgeeks.com/mg/getmirror/imgburn,1.html)
  - 7zip
 
 - Harden internet settings
