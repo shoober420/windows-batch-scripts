@@ -8,7 +8,8 @@ dgvoodoo2
  - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
  - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
 
-press F10 to enable menu at top of screen
+Device Select (F5)
+F10 to enable menu at top of screen
 
 Device
  - Direct 3D (display)*** (important to enable)
