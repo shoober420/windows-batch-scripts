@@ -1,0 +1,8 @@
+Resident Evil (original 1996 ps1 release)
+ - download (https://archive.org/details/biohazard-mediakite) or (https://archive.org/details/biohazard-mediakite-pc)
+  + must be japanese version (biohazard), mediakite release patched already
+ - install
+  + use Matrox Mystique video card option
+  + be sure to checkmark all options to do full install
+ - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-dll-fix-for-classic-edition/)
+ 
