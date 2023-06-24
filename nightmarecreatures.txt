@@ -1,0 +1,4 @@
+Nightmare Creatures
+ - download (https://www.myabandonware.com/game/nightmare-creatures-9zd)
+ - convert bin to iso
+ - mount and install
