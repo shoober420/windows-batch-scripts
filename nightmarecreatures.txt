@@ -2,8 +2,7 @@ Nightmare Creatures
  - download (https://www.myabandonware.com/game/nightmare-creatures-9zd)
  - convert bin to iso
  - mount and install
- - download 1.2 patch and install into "C:\Program Files (x86)\Activision\Nightmare Creatures" (https://www.patches-scrolls.de/patch/2942/7/47787/download)
- - create a shortcut of NC_V12.EXE, and add -D3D to the command line parameter (fixes game launching as PowerVR)
+ - change refresh rate to 60Hz and turn on VSync to fix game running too fast
 
 dgvoodoo2
  - download dgvoodoo2
@@ -11,4 +10,9 @@ dgvoodoo2
  - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD ("All of them" option doesnt work)
  - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
 
-1.2 patch fixes game running too fast
+
+
+
+1.2 patch fixes game running too fast, but causes choppy movement
+ - download 1.2 patch and install into "C:\Program Files (x86)\Activision\Nightmare Creatures" (https://www.patches-scrolls.de/patch/2942/7/47787/download)
+ - create a shortcut of NC_V12.EXE, and add -D3D to the command line parameter (fixes game launching as PowerVR)
