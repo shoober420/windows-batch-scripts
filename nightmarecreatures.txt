@@ -13,6 +13,6 @@ dgvoodoo2
 
 
 
-1.2 patch fixes game running too fast, but causes choppy movement
+1.2 patch fixes game running too fast, but causes choppy movement. when using 30 fps limiter, game runs too slow and is still choppy (DONT USE)
  - download 1.2 patch and install into "C:\Program Files (x86)\Activision\Nightmare Creatures" (https://www.patches-scrolls.de/patch/2942/7/47787/download)
  - create a shortcut of NC_V12.EXE, and add -D3D to the command line parameter (fixes game launching as PowerVR)
