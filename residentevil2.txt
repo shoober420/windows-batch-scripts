@@ -6,3 +6,5 @@ Resident Evil 2 (sourcenext)
  - download 1.1.0 patch (https://community.pcgamingwiki.com/files/file/1223-biohazard-2-sourcenext-110-patch/)
  - rename old bio2.exe to bio2.exeorg
  - copy files from bio2patch1.1.0 to the "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2" directory
+ - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-2-classic-rebirth/)
+ - place ddraw.dll into "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2" directory
