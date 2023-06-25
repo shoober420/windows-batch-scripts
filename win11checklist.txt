@@ -535,6 +535,10 @@ Fix Windows Update
 
 You can manually install windows updates using "uupdump.net" or by looking for the ".msu" file. using uup dumps can also download SystemApps that were removed
 
+NVIDIA driver settings are stored in "C:\ProgramData\NVIDIA Corporation\Drs"
+ + nvdrsdb0.bin being global
+ + nvdrsdb1.bin being program specific
+
 Basic Troubleshooting
  - DISM /Online /Cleanup-Image /RestoreHealth
  - dism /online /cleanup-image /startcomponentcleanup (cleans WinSxS directory)
