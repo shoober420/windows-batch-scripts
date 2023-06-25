@@ -7,4 +7,6 @@ Resident Evil (original 1996 ps1 release)
   + copy Biohazard.exe from iso into "C:\BIOHAZARD" directory
  - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-dll-fix-for-classic-edition/)
   + place ddraw.dll into "C:\BIOHAZARD" directory
+
+- download HQ video pack (https://www.moddb.com/downloads/re1-classic-rebirth-high-quality-video-pack)
  
