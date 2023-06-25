@@ -1,8 +1,10 @@
 Resident Evil (original 1996 ps1 release)
  - download (https://archive.org/details/biohazard-mediakite) or (https://archive.org/details/biohazard-mediakite-pc)
   + must be japanese version (biohazard), mediakite release patched already
- - install
-  + use Matrox Mystique video card option
-  + be sure to checkmark all options to do full install
+ - mount iso
+  + make directory "C:\BIOHAZARD"
+  + copy JPN folder, which is in "D:\horr", to the "C:\BIOHAZARD" directory
+  + copy Biohazard.exe from iso into "C:\BIOHAZARD" directory
  - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-dll-fix-for-classic-edition/)
+  + place ddraw.dll into "C:\BIOHAZARD" directory
  
