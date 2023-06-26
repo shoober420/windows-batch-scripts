@@ -6,3 +6,4 @@ Evil Dead: Hail to the King
  - extract d3d8.dll into "C:\Program Files (x86)\EvilDead\EvilDead"
 
 d3d8to9 causes square artifacts on pre-rendered backgrounds
+skipping the cutscene after starting a new game crashes the game
