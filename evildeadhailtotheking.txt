@@ -3,4 +3,4 @@ Evil Dead: Hail to the King
  - rename files to "evil dead_1t" and burn disc 1 and disc 2
  - install
 
-d3d8to9 causes square artifacts on pre-rendered backgrounds and breaks certain FMVs
+d3d8to9 causes square artifacts on pre-rendered backgrounds, try forcing 640x480
