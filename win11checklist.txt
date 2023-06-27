@@ -19,6 +19,7 @@ Download
  - WinBin2ISO (https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
  - NRGtoISO (http://www.nrgtoiso.com/)
  - ImgBurn (https://www.majorgeeks.com/mg/getmirror/imgburn,1.html)
+ - mpv (video player) (https://sourceforge.net/projects/mpv-player-windows/files)
  - 7zip
 
 - Harden internet settings
