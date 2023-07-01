@@ -565,4 +565,5 @@ Re-enter product key
       - slmgr /upk
       - slmgr /cpky
 
+services.msc to edit services
 appwiz.cpl to uninstall and remove programs
