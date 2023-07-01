@@ -564,3 +564,5 @@ Re-enter product key
  +++ OPTIONAL clear product key (backup product key before executing)
       - slmgr /upk
       - slmgr /cpky
+
+appwiz.cpl to uninstall and remove programs
