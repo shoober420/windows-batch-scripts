@@ -6,3 +6,5 @@ NO-CD patch from GameCopyWorld is an mdf/mds image, that cant be burned using IM
  + Failed to send Cue Sheet! Reason: Invalid field in CDB
 MDFtoISO conversion works, but mounting iso using windows explorer will still not allow the game to launch
  + converted iso also does not burn with same error
+
+Can't be uninstalled normally using appwiz.cpl, requires 3rd party uninstall aoftware
