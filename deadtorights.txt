@@ -3,4 +3,6 @@ Dead to Rights
 
 Copyprotection by StarForce, which is not compatible with modern Windows versions, 7+
 NO-CD patch from GameCopyWorld is an mdf/mds image, that cant be burned using IMGBurn (https://gamecopyworld.com/games/pc_dead_to_rights.shtml#Dead%20to%20Rights%20[MULTI]%20No-CD/Fixed%20Image)
+ + Failed to send Cue Sheet! Reason: Invalid field in CDB
 MDFtoISO conversion works, but mounting iso using windows explorer will still not allow the game to launch
+ + converted iso also does not burn with same error
