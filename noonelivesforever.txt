@@ -4,3 +4,5 @@ No One Lives Forever
  - mount and install
  - download nolf modernizer patch (https://haekb.itch.io/nolf-modernizer)
  - install patch files into "C:\Program Files\Fox\No One Lives Forever"
+ - launch NOLF.EXE and select "Advanced", then "Customize"
+ - add MODERIZER.REZ file and enable "Always load these rez files"
