@@ -1,0 +1,6 @@
+No One Lives Forever
+ - download (https://www.myabandonware.com/game/the-operative-no-one-lives-forever-7q4)
+ - convert bin files to iso
+ - mount and install
+ - download nolf modernizer patch (https://haekb.itch.io/nolf-modernizer)
+ - 
