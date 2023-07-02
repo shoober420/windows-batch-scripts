@@ -3,4 +3,4 @@ No One Lives Forever
  - convert bin files to iso
  - mount and install
  - download nolf modernizer patch (https://haekb.itch.io/nolf-modernizer)
- - 
+ - install patch files into "C:\Program Files\Fox\No One Lives Forever"
