@@ -1,0 +1,5 @@
+Unreal
+ - download from steam
+ - download oldunreal patch (https://github.com/OldUnreal/Unreal-testing)
+  + click on "<> Code" and "Download ZIP"
+ - install patch files into "C:\Program Files (x86)\Steam\steamapps\common\Unreal Gold"
