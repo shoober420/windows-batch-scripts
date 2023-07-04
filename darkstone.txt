@@ -1,0 +1,4 @@
+Darkstone
+  - download from steam
+  - add "-32bit" command line parameter
+  - 
