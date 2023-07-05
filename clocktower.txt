@@ -8,3 +8,5 @@ Clock Tower
  - download english translation (https://www.romhacking.net/translations/3135/) (game is only in japanese)
  - copy english translation into "C:\Clock Tower"
  - run Patch.bat
+
+does not work with dgvoodoo2
