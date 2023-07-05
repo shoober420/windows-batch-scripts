@@ -3,7 +3,7 @@ Download d3d8to9 (https://github.com/crosire/d3d8to9)
 
 Fix missing music, narration, and sounds
  - download dsoal (http://vaporeon.io/hosted/dsoal-builds/)
- - copy copy dsound.dll, dsoal-aldrv.dll, and alsoft.ini into the "C:\Program Files (x86)\Steam\steamapps\common\Max Payne" directory
+ - copy dsound.dll, dsoal-aldrv.dll, and alsoft.ini into the "C:\Program Files (x86)\Steam\steamapps\common\Max Payne" directory
  - run HKCUdsound.reg file
 
 AMD Zen2/Ryzen3 CPU JPEG ERRORS FIX
