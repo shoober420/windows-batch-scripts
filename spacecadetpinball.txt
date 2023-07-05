@@ -3,3 +3,5 @@ Microsoft Windows Pinball - Space Cadet
  - install into directory "C:\Program Files (x86)\Windows NT\Pinball"
  - https://github.com/k4zmu2a/SpaceCadetPinball
  - install into "C:\Program Files (x86)\Windows NT\Pinball" directory
+
+based on the pinball table from "Full Tilt! Pinball" game
