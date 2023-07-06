@@ -23,6 +23,8 @@ Download
  - mpv (video player) (https://sourceforge.net/projects/mpv-player-windows/files)
  - 7zip
 
+Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804)
+
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
  + change adapter settings, right click device and properties, uncheck unneeded protocols, click on IPv4 and go to properties, advanced, WINS tab, disable LMHOSTS lookup and disable NetBIOS over TCP/IP
