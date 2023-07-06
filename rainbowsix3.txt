@@ -1,0 +1,4 @@
+Rainbow Six 3: Raven Shield
+ - download from steam
+ - download d3dto9 (https://github.com/crosire/d3d8to9)
+ - install d3d8to9 into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\system"
