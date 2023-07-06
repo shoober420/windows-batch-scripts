@@ -24,7 +24,9 @@ Download
  - 7zip
 
 Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804)
- - Personalization > Themes > Desktop icon settings > Change icon
+ - Personalization > Themes > Desktop icon settings
+ - Enable and checkmark Computer, User's Files, and Recycle Bin
+ - go to Change icon
  - Computer (This PC) (\windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Computers\My Computer.ico)
  - User's Files (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Folders\Folder (hi-res).ico)
  - Network (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Network\Network Neighborhood (48x48px).ico)
