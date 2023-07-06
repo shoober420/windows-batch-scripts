@@ -23,6 +23,15 @@ Download
  - mpv (video player) (https://sourceforge.net/projects/mpv-player-windows/files)
  - 7zip
 
+Windows 98 Icons HQ (https://github.com/nestoris/Win98SE) / Windows 98 Icons Original (https://win98icons.alexmeub.com/)
+ - ICO Converter (https://www.icoconverter.com/)
+  + Computer (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/64/computer.png)
+  + Recycle Bin (full) (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash-full.png)
+  + Recycle Bin (empty) (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash.png)
+ - Personalization > Themes > Desktop icon settings
+ - Enable and checkmark Computer, User's Files, and Recycle Bin
+ - go to Change icon
+
 Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804)
  - Personalization > Themes > Desktop icon settings
  - Enable and checkmark Computer, User's Files, and Recycle Bin
