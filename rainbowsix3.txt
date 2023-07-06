@@ -2,3 +2,5 @@ Rainbow Six 3: Raven Shield
  - download from steam
  - download d3dto9 (https://github.com/crosire/d3d8to9)
  - install d3d8to9 into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\system"
+ - download Iron Wrath expansion (https://www.moddb.com/games/tom-clancys-rainbow-six-3-raven-shield/downloads/rainbow-six-3-iron-Wrath-manual-installation)
+ - install Iron Wrath expansion, move "IronWrath" folder and "IronWrath.mod" file into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\Mods"
