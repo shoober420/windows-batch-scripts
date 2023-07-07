@@ -61,6 +61,9 @@ Change Default Folder Icon
 Change .txt, .cfg, .ini icons
  - open FileTypesMan
 
+Change taskbar folder icon
+ - 
+
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
  + change adapter settings, right click device and properties, uncheck unneeded protocols, click on IPv4 and go to properties, advanced, WINS tab, disable LMHOSTS lookup and disable NetBIOS over TCP/IP
