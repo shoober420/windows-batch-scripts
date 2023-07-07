@@ -24,10 +24,11 @@ Download
  - 7zip
 
 Windows 98 Icons HQ (https://github.com/nestoris/Win98SE) / Windows 98 Icons Original (https://win98icons.alexmeub.com/)
+ +++ use Original icons for a faithful and pixelated icon, HQ for a smoothed icon (original recommended)
  - ICO Converter (https://www.icoconverter.com/)
-  + Computer (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/64/computer.png)
-  + Recycle Bin (full) (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash-full.png)
-  + Recycle Bin (empty) (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash.png)
+  + Computer: Original (https://win98icons.alexmeub.com/icons/png/computer_explorer-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/64/computer.png)
+  + Recycle Bin (full): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_full-2.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash-full.png)
+  + Recycle Bin (empty): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_empty-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash.png)
  - Personalization > Themes > Desktop icon settings
  - Enable and checkmark Computer, User's Files, and Recycle Bin
  - go to Change icon
@@ -36,11 +37,11 @@ Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICON
  - Personalization > Themes > Desktop icon settings
  - Enable and checkmark Computer, User's Files, and Recycle Bin
  - go to Change icon
- - Computer (This PC) (\windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Computers\My Computer.ico)
- - User's Files (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Folders\Folder (hi-res).ico)
- - Network (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Network\Network Neighborhood (48x48px).ico)
- - Recycle Bin (full) (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Recycle Bin with paper.ico)
- - Recycle Bin (empty) (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Empty Recycle Bin.ico)
+ - Computer (This PC): (\windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Computers\My Computer.ico)
+ - User's Files: (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Folders\Folder (hi-res).ico)
+ - Network: (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Network\Network Neighborhood (48x48px).ico)
+ - Recycle Bin (full): (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Recycle Bin with paper.ico)
+ - Recycle Bin (empty): (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Empty Recycle Bin.ico)
  
 
 - Harden internet settings
