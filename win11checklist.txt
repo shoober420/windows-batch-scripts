@@ -27,8 +27,9 @@ Windows 98 Icons HQ (https://github.com/nestoris/Win98SE) / Windows 98 Icons Ori
  +++ use Original icons for a faithful and pixelated icon, HQ for a smoothed icon (original recommended)
  - ICO Converter (https://www.icoconverter.com/)
   + Computer: Original (https://win98icons.alexmeub.com/icons/png/computer_explorer-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/64/computer.png)
-  + Recycle Bin (full): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_full-2.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash-full.png)
-  + Recycle Bin (empty): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_empty-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/96/user-trash.png)
+  + User's Files: Original (https://win98icons.alexmeub.com/icons/png/directory_closed-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/folder.png)
+  + Recycle Bin (full): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_full-2.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash-full.png)
+  + Recycle Bin (empty): Original (https://win98icons.alexmeub.com/icons/png/recycle_bin_empty-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash.png)
  - Personalization > Themes > Desktop icon settings
  - Enable and checkmark Computer, User's Files, and Recycle Bin
  - go to Change icon
