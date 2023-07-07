@@ -38,8 +38,6 @@ Windows 98 Icons: Original (https://win98icons.alexmeub.com) / HQ (https://githu
    + Recycle Bin (full): Original (%SystemRoot%\System32\SHELL32.dll) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash-full.png)
    + Recycle Bin (empty): Original (%SystemRoot%\System32\SHELL32.dll) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash.png)
 
-
-
 Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804)
  - ICO Converter (https://www.icoconverter.com)
  - Personalization > Themes > Desktop icon settings
@@ -50,8 +48,15 @@ Windows 95 Icon Pack (https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICON
  - Network: (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Network\Network Neighborhood (48x48px).ico)
  - Recycle Bin (full): (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Recycle Bin with paper.ico)
  - Recycle Bin (empty): (windows_95_all_icons_by_vovan29_ddbo0ro\Windows 95 ALL ICONS v1.1\Sort by Category [Without duplicates]\Recycle Bins\Empty Recycle Bin.ico)
- 
 
+Change Default Folder Icon
+ - regedit
+ - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer
+ - right click and New > Key
+ - create Shell Icons
+ - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer/Shell Icons/3 (reg_sz)
+ - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer/Shell Icons/4 (reg_sz)
+ - make both registry key values the path to the new icon ("C:\Users\shoober420\Downloads\FolderIcon.ico")
 
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
