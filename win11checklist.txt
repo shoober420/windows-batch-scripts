@@ -34,7 +34,7 @@ Windows 98 Icons: Original (https://win98icons.alexmeub.com) / HQ (https://githu
   - Enable and checkmark Computer, User's Files, and Recycle Bin
   - go to Change icon
    + Computer: Original (https://win98icons.alexmeub.com/icons/png/computer_explorer-5.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/64/computer.png)
-   + User's Files: Original (https://win98icons.alexmeub.com/icons/png/directory_closed-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/folder.png)
+   + User's Files: Original (https://win98icons.alexmeub.com/icons/png/directory_open_file_mydocs-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-home.png)
    + Recycle Bin (full): Original (%SystemRoot%\System32\SHELL32.dll) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash-full.png)
    + Recycle Bin (empty): Original (%SystemRoot%\System32\SHELL32.dll) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/user-trash.png)
 
@@ -56,6 +56,7 @@ Change Default Folder Icon
  - create Shell Icons
  - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer/Shell Icons/3 (reg_sz)
  - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer/Shell Icons/4 (reg_sz)
+ - Original (https://win98icons.alexmeub.com/icons/png/directory_closed-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/folder.png)
  - make both registry key values the path to the new icon ("C:\Users\shoober420\Downloads\FolderIcon.ico")
 
 Change .txt, .cfg, .ini icons
