@@ -75,9 +75,10 @@ Change Default Hard Drive Icon
  - Original (https://win98icons.alexmeub.com/icons/png/hard_disk_drive-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/devices/48/drive-harddisk.png)
  - enter value "C:\Users\Raven\Downloads\HardDiskIcon.ico"
 
-Change .txt, .cfg, .ini, .log icons
+Change .txt, .cfg, .ini, and .log icons
  - open FileTypesMan
- - double click each file extension (txt cfg ini) and put "C:\Users\Raven\Downloads\Text Icon.ico" (https://win98icons.alexmeub.com/icons/png/notepad_file-2.png)
+ - Original (https://win98icons.alexmeub.com/icons/png/notepad_file-2.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/mimes/48/text-x-generic.png)
+ - double click each file extension (txt cfg ini) and put "C:\Users\Raven\Downloads\TextIcon.ico"
 
 Change taskbar folder icon
  - 
