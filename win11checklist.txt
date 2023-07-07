@@ -59,7 +59,7 @@ Change Default Folder Icon
  - Original (https://win98icons.alexmeub.com/icons/png/directory_closed-4.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/places/64/folder.png)
  - make both registry key values the path to the new icon ("C:\Users\shoober420\Downloads\FolderIcon.ico")
 
-Change .txt, .cfg, .ini icons
+Change .txt, .cfg, .ini, .log icons
  - open FileTypesMan
  - double click each file extension (txt cfg ini) and put "C:\Users\Raven\Downloads\Text Icon.ico" (https://win98icons.alexmeub.com/icons/png/notepad_file-2.png)
 
