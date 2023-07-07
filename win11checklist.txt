@@ -80,8 +80,7 @@ Change .txt, .cfg, .ini, and .log icons
  - Original (https://win98icons.alexmeub.com/icons/png/notepad_file-2.png) / HQ (https://github.com/nestoris/Win98SE/blob/main/SE98/mimes/48/text-x-generic.png)
  - double click each file extension (txt cfg ini) and put "C:\Users\Raven\Downloads\TextIcon.ico"
 
-Change taskbar folder icon
- - 
+
 
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
