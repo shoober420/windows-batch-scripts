@@ -58,6 +58,9 @@ Change Default Folder Icon
  - HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/Windows/CurrentVersion/Explorer/Shell Icons/4 (reg_sz)
  - make both registry key values the path to the new icon ("C:\Users\shoober420\Downloads\FolderIcon.ico")
 
+Change .txt, .cfg, .ini icons
+ - open FileTypesMan
+
 - Harden internet settings
  + Open Control Panel / Network and Sharing Center
  + change adapter settings, right click device and properties, uncheck unneeded protocols, click on IPv4 and go to properties, advanced, WINS tab, disable LMHOSTS lookup and disable NetBIOS over TCP/IP
