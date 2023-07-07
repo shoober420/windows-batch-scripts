@@ -60,6 +60,7 @@ Change Default Folder Icon
 
 Change .txt, .cfg, .ini icons
  - open FileTypesMan
+ - double click each file extension (txt cfg ini) and put "C:\Users\Raven\Downloads\Text Icon.ico" (https://win98icons.alexmeub.com/icons/png/notepad_file-2.png)
 
 Change taskbar folder icon
  - 
