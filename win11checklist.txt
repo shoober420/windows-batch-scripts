@@ -283,7 +283,7 @@ Change .txt, .cfg, .ini, and .log icons
  + disable fax
  + disable file history service
  + disable SysMain / Superfetch
- + disable AVTCP and Connected Devices Platform Service (Bluetooth and Xbox)
+ + disable AVCTP (Bluetooth and Xbox)
  + disable Data Sharing Service (SMB related)
  + disable netlogon
  + disable connected user experiences and telemetry
