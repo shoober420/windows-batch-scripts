@@ -631,3 +631,5 @@ Re-enter product key
 
 services.msc to edit services
 appwiz.cpl to uninstall and remove programs
+ms-settings: to open settings app
+ms-windows-store: to open microsoft store app
