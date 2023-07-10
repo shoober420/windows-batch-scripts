@@ -23,6 +23,7 @@ Download
  - mpv (video player) (https://sourceforge.net/projects/mpv-player-windows/files)
  - FileTypesMan (https://www.nirsoft.net/utils/file_types_manager.html) (change default icons)
  - 7zip
+ - pcgamingwiki.com (source for patches and tweaks)
 
 
 
