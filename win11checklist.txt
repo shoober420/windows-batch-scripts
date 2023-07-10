@@ -612,7 +612,11 @@ Reinstall deleted Windows Store Apps
  - launch enablestore.bat script
  - open run
  - ms-windows-store:
- 
+
+Reinstall all Windows apps
+ - run and cmd
+ - Get-AppXPackage | foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+
 Re-enter product key
  - open cmd
  - wmic path softwarelicensingservice get OA3xOriginalProductKey
