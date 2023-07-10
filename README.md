@@ -18,3 +18,5 @@ winget.bat
 vcredist.bat
 
 HKCUdsound.reg (adds dsound registry keys needed for older games, like Max Payne)
+
+disablebluetooth.bat / enablebluetooth.bat
