@@ -613,7 +613,13 @@ Reinstall deleted Windows Store Apps
  - open run
  - ms-windows-store:
 
+Reinstall Settings app
+ - enable ClipSVC
+ - run and cmd
+ - powershell -ExecutionPolicy Unrestricted Add-AppxPackage -DisableDevelopmentMode -Register $Env:SystemRoot\ImmersiveControlPanel\AppxManifest.xml
+
 Reinstall all Windows apps
+ - enable ClipSVC
  - run and cmd
  - Get-AppXPackage | foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
@@ -628,6 +634,12 @@ Re-enter product key
  +++ OPTIONAL clear product key (backup product key before executing)
       - slmgr /upk
       - slmgr /cpky
+
+Run windows update
+ - open powershell terminal
+ - Install-Module PSWindowsUpdate
+ - Get-WindowsUpdate
+ - Install-WindowsUpdate
 
 services.msc to edit services
 appwiz.cpl to uninstall and remove programs
