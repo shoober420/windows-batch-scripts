@@ -645,6 +645,7 @@ Run windows update
 Windows Insider Canary ISO
  - https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 
+explorer to open file explorer
 services.msc to edit services
 devmgmt.msc to open device manager
 appwiz.cpl to uninstall and remove programs
