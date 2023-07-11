@@ -642,6 +642,7 @@ Run windows update
  - Install-WindowsUpdate
 
 services.msc to edit services
+devmgmt.msc to open device manager
 appwiz.cpl to uninstall and remove programs
 ms-settings: to open settings app
 ms-windows-store: to open microsoft store app
