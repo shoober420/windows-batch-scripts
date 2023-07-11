@@ -641,6 +641,9 @@ Run windows update
  - Get-WindowsUpdate
  - Install-WindowsUpdate
 
+Windows Insider Canary ISO
+ - https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
+
 services.msc to edit services
 devmgmt.msc to open device manager
 appwiz.cpl to uninstall and remove programs
